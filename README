@@ -1,0 +1,65 @@
+﻿SBIENES - Readme.
+
+=================
+
+
+SBIENES es un software para la gestión y administración de propiedades 
+de agencias de arrendamiento.
+
+
+Entre sus características se encuentran:
+
+
+- Gestión de propietarios, inmuebles, inquilinos, terceros
+
+- Relación inmueble/propietario
+
+- Administración de documentos
+
+- Generar contratos, facturas, reportes
+
+- Exportar csv, sql
+
+
+
+REQUERIMIENTOS
+
+	
+- Python 2.7
+	
+- Tk, ttk
+	
+- MySQL/MariaDB
+	
+- MySQLdb
+	
+- Reportlab
+
+USO
+	
+
+Para correr el programa ejecute el archivo 'inicio.sh'
+	En sistemas Windows ejecute el archivo SBIENES.bat
+
+AUTOR
+       © 2016 Einnerlink
+	einnerlink@gmail.com
+	einnerlink.tk
+	Medellín - Colombia
+
+
+
+La estructura del proyecto es esta:
+
+projecto
+├── mod #carpeta
+│   ├── __init__.py
+│   ├── propietarios.py
+│   ├── arrendatarios.py
+│   ├── inmuebles.py
+│   ├── config.py
+│   ├── relacionip.py
+│   ├── contratos.py
+│   ├── proceso_fact_auto_arre.py
+│   └── otros...
+└── main.py

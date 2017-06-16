@@ -1,0 +1,56 @@
+caja:			110505
+canon arrendamiento: 	2815050
+terceros:		138020
+papeleria:		41503002
+comision:		13050501
+IVA:			13050501
+retefuente:		13802003
+IVA juridico:		28150502
+vl factura arrendatario:13802001
+intereses:		421005
+impuestos asumidos:	531520
+
+#--------------------------------
+
+rtefuente_s:		13551505
+rete iva:		13802004
+subtotal arrendatario:	2815050
+iva arrendatario:	13802002
+subtotal propietario:	41503001
+iva propietario:	24080101
+comision arrendataio:	41503001
+otros ingresos:		238020
+colpatria:		11100501
+conavi:			11201005
+cuenta bancaria cheques:1057856916
+
+#--------------------------------
+
+vl papeleria:		50000
+comision:		10
+iva:			16
+rete fuente:		3,5
+iva juridico:		16
+comision inicial:	10
+intereses mora:		2,5
+incremento:		5
+retIVA:			15
+porc rte fuente:	11
+
+#--------------------------------
+
+dia inicio periodo:	1
+#mese renovacion:	12
+resolucion:		Resolución Dian N°110000
+impresora:		hp
+puerto:			lpt1
+#dias plazo:		8
+unidad quemador:	E
+
+#--------------------------------
+
+recibo de caja:		26852
+facturas:		33165
+cheques:		16391
+comprobantes de pago:	13887
+
