@@ -7,5 +7,5 @@ def Conexion(u, p):
 	conexion = MySQLdb.connect (host = "localhost", 
 					user = "%s" % (u),
 					passwd = "%s" % (p),
-					db = "sbienes")
+					db = "database")
 	cursor = conexion.cursor ()
