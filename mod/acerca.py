@@ -16,7 +16,7 @@ class Acerca(Frame):
 		#========================= WRAPPER =============================
 
 		#quote"""Este software ha sido desarrollado para la administración de propiedades de agencias de arrendamiento por Einnerlink\n mediante Python 2.7 y algunas de sus destacadas librerías como MySQLdb, Reportlab, etc.\n\n© 2016 Einnerlink\neinnerlink@gmail.com\neinnerlink.tk\nMedellín - Colombia"""
-		quote = """SBIENES es un software para la administración de propiedades de agencias de arrendamiento desarrollado por Einnerlink mediante Python 2.7 y algunas de sus librerías como: Tk, ttk, MySQLdb, Reportlab, etc.\n\n© 2016 Einnerlink\neinnerlink@gmail.com\neinnerlink.tk\nMedellín - Colombia"""
+		quote = """SBIENES es un software para la administración de propiedades de agencias de arrendamiento desarrollado por Einnerlink mediante Python 2.7 y algunas de sus librerías como: Tk, ttk, MySQLdb, Reportlab, etc.\n\n© 2016 Einnerlink\neinnerlink@gmail.com\neinnerlink.com\nMedellín - Colombia"""
 		
 				
 		self.wrapper = Frame(self)
