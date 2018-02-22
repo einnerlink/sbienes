@@ -1,19 +1,1 @@
-Bugs equipo de Luisa:
 
-Exception in Tkinter callback
-Traceback (most recent call last):
-  File "C:\Python27\lib\lib-tk\Tkinter.py", line 1410, in __call__
-    return self.func(*args)
-  File "D:\SBIENES\home.py", line 312, in dbconnexion
-    self.interfaz()
-  File "D:\SBIENES\home.py", line 294, in interfaz
-    frame = F(self.container, self)
-  File "D:\SBIENES\mod\propietarios.py", line 356, in __init__
-    bank0Cbx = Combobox(self.f3, textvariable=reprebanco, values=tbancos, width=
-12)
-  File "C:\Python27\lib\lib-tk\ttk.py", line 712, in __init__
-    kw["values"] = _format_optdict({'v': kw["values"]})[1]
-  File "C:\Python27\lib\lib-tk\ttk.py", line 67, in _format_optdict
-    v.append(unicode(val) if val else '{}')
-UnicodeDecodeError: 'ascii' codec can't decode byte 0xc3 in position 11: ordinal
- not in range(128)
